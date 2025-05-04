@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] – A Passionate Full-Stack Developer & Engineering Student
+# 👋 Hi, I'm Priyanshu Mrinal Jha – A Passionate Full-Stack Developer & Engineering Student
 
 🎓 I'm currently pursuing **Instrumentation and Control Engineering** and deeply passionate about building intelligent systems, robust web apps, and diving into the world of **AI, robotics**, and **data-driven** development.
 
@@ -50,14 +50,14 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu7798&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu7798&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/priyanshu-jha-77a596278/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=internetexplorer&logoColor=white)](https://yourportfolio.com)
 
 ---
