@@ -58,7 +58,7 @@
 ## 📫 Connect with Me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-jha-77a596278/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-jha-77a596278/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=internetexplorer&logoColor=white)](https://yourportfolio.com)
 
 ---
