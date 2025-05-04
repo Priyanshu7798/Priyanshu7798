@@ -29,6 +29,7 @@
 
 ### 🗃️ **Databases**
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -63,6 +64,8 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu7798&show_icons=true&theme=radical)
+
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu7798&layout=compact&theme=radical)
 
 ---
